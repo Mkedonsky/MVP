@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MVP</string>
+    <string name="_1" tools:ignore="DuplicateDefinition">Счетчик1</string>
+    <string name="Value_0">Количество = 0</string>
+    <string name="_2" tools:ignore="DuplicateDefinition">Счетчик2</string>
+    <string name="value_1">Количество = 0</string>
+    <string name="_3" tools:ignore="DuplicateDefinition">Счетчик3</string>
+    <string name="value_2">Количество = 0</string>
+    <string name="ok">OK</string>
+    <string name="_0">Количество = 0</string>
+
+</resources>
